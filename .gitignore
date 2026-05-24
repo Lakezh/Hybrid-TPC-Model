@@ -1,0 +1,28 @@
+# 大数据文件（需自行获取，见 README 数据说明）
+data/11800TPC_1_1_with_medium_group_3_with_OGT (3).csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/settings.json
+.idea/
+
+# 空日志文件
+results/group4_training_log.csv

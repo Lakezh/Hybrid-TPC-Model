@@ -1,0 +1,18 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+xgboost
+pillow>=10.0
+torchdiffeq
+
+# PyTorch — 根据你的环境选择以下其中一行安装（不要两行同时安装）：
+#
+# GPU 版（NVIDIA CUDA 12.x，推荐）：
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+#
+# CPU 版（无 GPU）：
+#   pip install torch torchvision torchaudio
+#
+# 或直接运行一键安装脚本（会自动安装 CUDA 版）：
+#   python code/install_packages.py

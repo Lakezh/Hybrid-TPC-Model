@@ -1,0 +1,13 @@
+{
+  "total_epochs": 109,
+  "elapsed_seconds": 11687.8,
+  "lambda_arr": 0.01,
+  "lambda_peak": 0.05,
+  "lambda_tail": 0.1,
+  "final_loss_total": 0.052554,
+  "final_loss_data": 0.052334,
+  "final_loss_arr": 0.011144,
+  "final_loss_peak": 0.002189,
+  "final_loss_tail": 0.0,
+  "final_loss_reg": 0.0
+}
